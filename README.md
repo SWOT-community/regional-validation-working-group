@@ -53,9 +53,9 @@ This working group focuses on validating SWOT measurements using independent mea
 * Andrea Hay (University of Tasmania): geometric validation and noise level (5mm noise level of Karin 2km pixels with the Bass Strait experiment.)
 * Solange Coadou (LMD & University of Gothenburg): Resolving Sharper Fronts of the Agulhas Current using SWOT Altimetry. (Cape Basin (Agulhas Current) and the QUICCHE campaign data)
 
-### March 20, 2025 
+### March 20, 2025 [Recording](https://tamucs-my.sharepoint.com/:v:/g/personal/jinbo_wang_tamu_edu/EQ-nZ0QxToNLktwZAF4A24MBkmu8GLUPNeRvGFnkBCMBTw?e=RfKSgr)
 
-* Luke Kachelein (JPL): Sub-100 km ocean processes revealed by structure functions of SWOT sea surface height and in situ observing network 
+* Luke Kachelein (JPL): Sub-100 km ocean processes revealed by structure functions of SWOT sea surface height and in situ observing network (submitted, [link]([10.22541/essoar.174250725.56102978/v1](https://essopenarchive.org/users/903693/articles/1278614-sub-100-km-ocean-processes-revealed-by-structure-functions-of-swot-sea-surface-height-and-in-situ-observing-network)) )
 * Yann-Treden Tranchant (University of Tasmania): SWOT reveals fine-scale balanced motions and dispersion properties in the Antarctic Circumpolar Current (10.22541/essoar.173655552.25945463/v1)
 
 ### April 17, 2025
