@@ -34,6 +34,7 @@ This working group focuses on validating SWOT measurements using independent mea
 17. Zhang, Z., Miao, M., Qiu, B., Tian, J., Jing, Z., Chen, G., et al. (2024). Submesoscale Eddies Detected by SWOT and Moored Observations in the Northwestern Pacific. Geophysical Research Letters, 51(15), e2024GL110000. https://doi.org/10.1029/2024GL110000
 18. Damerell, G.M., Bosse, A., Fer, I. (2025). Merging of a mesoscale eddy into the Lofoten Vortex in the Norwegian Sea captured by an ocean glider and SWOT observations. Submitted to Ocean Science January 2025.
 19. Hay, A., C. Watson, B. Legresy, M. King, and J. Beardsley, (2025). Small scale variability in the wet troposphere impacts the interpretation of SWOT satellite observations. Geophysical Research Letters, 2024GL112778. [link](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL112778?af=R)
+20. Kachelein et al. (2025) Sub-100 km Ocean Processes Revealed by Structure Functions of SWOT Sea Surface Height and In Situ Observing Network (submitted, [link]([10.22541/essoar.174250725.56102978/v1](https://essopenarchive.org/users/903693/articles/1278614-sub-100-km-ocean-processes-revealed-by-structure-functions-of-swot-sea-surface-height-and-in-situ-observing-network)) )
 
 
 ## Monthly meeting (11AM-12:30PM, the third Thursday every month)
