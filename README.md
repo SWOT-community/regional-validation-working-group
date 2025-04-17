@@ -36,6 +36,9 @@ This working group focuses on validating SWOT measurements using independent mea
 19. Hay, A., C. Watson, B. Legresy, M. King, and J. Beardsley, (2025). Small scale variability in the wet troposphere impacts the interpretation of SWOT satellite observations. Geophysical Research Letters, 2024GL112778. [link](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL112778?af=R)
 20. Kachelein et al. (2025) Sub-100 km Ocean Processes Revealed by Structure Functions of SWOT Sea Surface Height and In Situ Observing Network (submitted, [link](https://essopenarchive.org/users/903693/articles/1278614-sub-100-km-ocean-processes-revealed-by-structure-functions-of-swot-sea-surface-height-and-in-situ-observing-network)) 
 
+## Early Career hightlights
+
+* [Renske Koets](https://www.swot-adac.org/news/the-new-wave-of-oceanographers-renske-koets/)
 
 ## Monthly meeting (11AM-12:30PM, the third Thursday every month)
 
