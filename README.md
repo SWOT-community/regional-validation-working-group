@@ -24,7 +24,7 @@ This working group focuses on validating SWOT measurements using independent mea
 6. Rousselet L., Izard L., Doglioli A.M., d’Ovidio F.:Fine-scales in the Mediterranean Sea as revealed by SWOT. GRL, in prep
 7. Oms L., Doglioli A.M., Grégori G., Messié M., d’Ovidio F.. Izard L., Rousselet L., Petrenko A., Lévy M., Bellacicco M.: “Living on the edge”: Fine-scale observations of frontal phytoplankton communities, PNAS, in prep
 9. Akpinar, A., Orek, H., Fach, B.A.. Fine-scale dynamics in the Black Sea detected by SWOT In preparation
-10. J. Wang et al. (2025) SWOT sub-100km science validation (submitted to GRL) [Preprint](10.22541/essoar.173757588.88498030/v1) [Code](https://github.com/jinbow/swot-mission-validation-sub100km) [Data]( https://zenodo.org/records/14675995)
+10. J. Wang et al. (2025) SWOT sub-100km science validation (submitted to GRL) [Preprint](https://www.google.com/search?client=safari&rls=en&q=10.22541%2Fessoar.173757588.88498030%2Fv1&ie=UTF-8&oe=UTF-8&channel=30) [Code](https://github.com/jinbow/swot-mission-validation-sub100km) [Data]( https://zenodo.org/records/14675995)
 11. Hay, A., C. Watson, B. Legresy, B. Zhou, J. Beardsley, and M.King, Bohé, A., In-situ geometric validation of SWOT satellite observations in Bass Strait, In prep for submission to Earth and Space Science, Expected submission date February 2025.
 12. Bohé, A., Chen, A., Chen, C., Dubois, P., Fore, A., Molero, B., Peral, E., Raynal, M., Stiles, B., Ardhuin, F., Hay, A., Legresy, B., Lenain, L., Villas Boas, A.B. (2024) Measuring significant wave height fields in two dimensions at kilometric scale with SWOT. IEEE TGRS. Submitted, in review.
 13. Allison Ho, J. Wang, B. Haines, A. Wu, S. Stalin, In-situ validation of small-scale spatial variability in significant wave height observations from SWOT, submitted to ESS (2/20/2025)
@@ -61,7 +61,7 @@ This working group focuses on validating SWOT measurements using independent mea
 * Luke Kachelein (JPL): Sub-100 km ocean processes revealed by structure functions of SWOT sea surface height and in situ observing network (submitted, [link](https://essopenarchive.org/users/903693/articles/1278614-sub-100-km-ocean-processes-revealed-by-structure-functions-of-swot-sea-surface-height-and-in-situ-observing-network) )
 * Yann-Treden Tranchant (University of Tasmania): SWOT reveals fine-scale balanced motions and dispersion properties in the Antarctic Circumpolar Current (10.22541/essoar.173655552.25945463/v1)
 
-### April 17, 2025
+### April 17, 2025 [Recording](https://tamucs-my.sharepoint.com/:v:/g/personal/jinbo_wang_tamu_edu/EcDyD6LgFjhHv5-_fSmU_yQBGGghmzzFIDN1_IxYIjxv_w?e=Jhyhyf)
 
 * Babette Christelle Tchonang (JPL): Velocity validation against in-situ ADCP at the mission calval site in the California Current. 
 * Maristella Berta: small-scale Lagrangian study in the Med Sea using drifters
