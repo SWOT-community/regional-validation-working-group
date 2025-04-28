@@ -17,12 +17,13 @@ This working group focuses on validating SWOT measurements using independent mea
 ## Publication list
 
 1. Verger-Miralles et al. SWOT enhances small-scale intrathermocline eddy detection submitted to GRL [Preprint](https://essopenarchive.org/doi/full/10.22541/essoar.173315547.75973902/v1)
-2. Cutolo E., J. Wang, R. Fablet and C. Granero - Simulation Informed Generative AI Ocean Analysis: Application to SWOT KaRIN Noise  To be submitted to GRL in January 2025
-3. Solange Coadou, Swart, Speich et al. Resolving Sharper Fronts of the Agulhas Current using SWOT Altimetry. To be submitted to GRL in January 2025 (link)
-4. Matte, P., Purnell, D., Chartrand, X., Simard, M., Christensen, A., Chavanne, C., Dumont, D., Anctil, F., Innocenti, S., Dabboor, M., Peters, D. Comprehensive in situ dataset of water levels and waves during SWOT fast-sampling and science phases: St. Lawrence Estuary and Saguenay Fjord, Quebec, Canada. In preparation
-5. Simard, M., Christensen, A., Matte, P., Purnell, D., Innocenti, S. Evaluation of SWOT performance and accuracy in estuaries. In preparation
-6. Rousselet L., Izard L., Doglioli A.M., d’Ovidio F.:Fine-scales in the Mediterranean Sea as revealed by SWOT. GRL, in prep
-7. Oms L., Doglioli A.M., Grégori G., Messié M., d’Ovidio F.. Izard L., Rousselet L., Petrenko A., Lévy M., Bellacicco M.: “Living on the edge”: Fine-scale observations of frontal phytoplankton communities, PNAS, in prep
+2. Babette Tchonang et al. SWOT Geostrophic Velocity Validation against in-situ measurements in the California Current. [preprint link](https://essopenarchive.org/users/916355/articles/1289173-swot-geostrophic-velocity-validation-against-in-situ-measurements-in-the-california-current)
+3. Cutolo E., J. Wang, R. Fablet and C. Granero - Simulation Informed Generative AI Ocean Analysis: Application to SWOT KaRIN Noise submitted to GRL [preprint link](https://arxiv.org/html/2503.21303v1)
+4. Solange Coadou, Swart, Speich et al. Resolving Sharper Fronts of the Agulhas Current using SWOT Altimetry. To be submitted to GRL in January 2025 (link)
+5. Matte, P., Purnell, D., Chartrand, X., Simard, M., Christensen, A., Chavanne, C., Dumont, D., Anctil, F., Innocenti, S., Dabboor, M., Peters, D. Comprehensive in situ dataset of water levels and waves during SWOT fast-sampling and science phases: St. Lawrence Estuary and Saguenay Fjord, Quebec, Canada. In preparation
+6. Simard, M., Christensen, A., Matte, P., Purnell, D., Innocenti, S. Evaluation of SWOT performance and accuracy in estuaries. In preparation
+7. Rousselet L., Izard L., Doglioli A.M., d’Ovidio F.:Fine-scales in the Mediterranean Sea as revealed by SWOT. GRL, in prep
+8. Oms L., Doglioli A.M., Grégori G., Messié M., d’Ovidio F.. Izard L., Rousselet L., Petrenko A., Lévy M., Bellacicco M.: “Living on the edge”: Fine-scale observations of frontal phytoplankton communities, PNAS, in prep
 9. Akpinar, A., Orek, H., Fach, B.A.. Fine-scale dynamics in the Black Sea detected by SWOT In preparation
 10. J. Wang et al. (2025) SWOT sub-100km science validation (submitted to GRL) [Preprint](https://doi.org/10.22541/essoar.173757588.88498030/v1) [Code](https://github.com/jinbow/swot-mission-validation-sub100km) [Data]( https://zenodo.org/records/14675995)
 11. Hay, A., C. Watson, B. Legresy, B. Zhou, J. Beardsley, and M.King, Bohé, A., In-situ geometric validation of SWOT satellite observations in Bass Strait, In prep for submission to Earth and Space Science, Expected submission date February 2025.
