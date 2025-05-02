@@ -17,9 +17,10 @@ This working group focuses on validating SWOT measurements using independent mea
 ## Publication list
 
 ### Published or with PDF files
-1. Verger-Miralles et al. SWOT enhances small-scale intrathermocline eddy detection submitted to GRL [Preprint](https://essopenarchive.org/doi/full/10.22541/essoar.173315547.75973902/v1)
-2. Babette Tchonang et al. SWOT Geostrophic Velocity Validation against in-situ measurements in the California Current. [preprint link](https://essopenarchive.org/users/916355/articles/1289173-swot-geostrophic-velocity-validation-against-in-situ-measurements-in-the-california-current)
-3. Carli E. (2025) A fine satellite view of ocean dynamics. NATURE 640. [Link] (https://www.nature.com/articles/d41586-025-00820-x)
+1.Archer M., Wang J., Klein P., Dibarboure G., Fu L-L. (2025). Wide-swath satellite altimetry unveils global submesoscale ocean dynamics. Nature 640, 691–696. [Link] (https://www.nature.com/articles/s41586-025-08722-8)
+2. Verger-Miralles et al. SWOT enhances small-scale intrathermocline eddy detection submitted to GRL [Preprint](https://essopenarchive.org/doi/full/10.22541/essoar.173315547.75973902/v1)
+3. Babette Tchonang et al. SWOT Geostrophic Velocity Validation against in-situ measurements in the California Current. [preprint link](https://essopenarchive.org/users/916355/articles/1289173-swot-geostrophic-velocity-validation-against-in-situ-measurements-in-the-california-current)
+4. Carli E. (2025) A fine satellite view of ocean dynamics. NATURE 640. [Link] (https://www.nature.com/articles/d41586-025-00820-x)
 5. Cutolo E., J. Wang, R. Fablet and C. Granero - Simulation Informed Generative AI Ocean Analysis: Application to SWOT KaRIN Noise submitted to GRL [preprint link](https://arxiv.org/html/2503.21303v1)
 6. J. Wang et al. (2025) SWOT sub-100km science validation (submitted to GRL) [Preprint](https://doi.org/10.22541/essoar.173757588.88498030/v1) [Code](https://github.com/jinbow/swot-mission-validation-sub100km) [Data]( https://zenodo.org/records/14675995)
 7. Tranchant, Y.T., B. Legresy, B. Pena Molino, A, Foppert, H.E. Phillips. SWOT reveals fine-scale balanced motions and dispersion properties in the Antarctic Circumpolar Current (2025) [Link](https://doi.org/10.22541/essoar.173655552.25945463/v1)
