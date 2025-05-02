@@ -29,7 +29,7 @@ This working group focuses on validating SWOT measurements using independent mea
 10. Wang J. et al. (2025) SWOT sub-100km science validation (submitted to GRL) Preprint Code Data
 11. Kachelein et al. (2025) Sub-100 km Ocean Processes Revealed by Structure Functions of SWOT Sea Surface Height and In Situ Observing Network (submitted, link)
 12. Tranchant, Y.T., B. Legresy, B. Pena Molino, A, Foppert, H.E. Phillips. SWOT reveals fine-scale balanced motions and dispersion properties in the Antarctic Circumpolar Current (2025) Link
-13. Verger-Miralles et al. SWOT enhances small-scale intrathermocline eddy detection submitted to GRL Preprint
+13. Verger-Miralles et al. SWOT enhances small-scale intrathermocline eddy detection submitted to GRL [Preprint] (https://essopenarchive.org/doi/full/10.22541/essoar.173315547.75973902/v1) 
 14. Zhang, Z., Miao, M., Qiu, B., Tian, J., Jing, Z., Chen, G., et al. (2024). Submesoscale Eddies Detected by SWOT and Moored Observations in the Northwestern Pacific. Geophysical Research Letters, 51(15), e2024GL110000. https://doi.org/10.1029/2024GL110000
 
 ### submitted or in prep
