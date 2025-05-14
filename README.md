@@ -2,7 +2,7 @@
 
 This working group focuses on validating SWOT measurements using independent measurements in the context of ocean processes. 
 
-* Co-chairs: Louise Rousselet <louise.rousselet@mio.osupytheas.fr>, Martin Saraceno <saraceno@cima.fcen.uba.ar>, Sebastiaan Swart <sebastiaan.swart@marine.gu.se>, Ananda Pascual <ananda.pascual@imedea.uib-csic.es>, Jinbo Wang <Jinbo.Wang@tamu.edu> 
+* Co-chairs: Louise Rousselet <louise.rousselet@mio.osupytheas.fr>, Martin Saraceno <saraceno@cima.fcen.uba.ar>, Sebastiaan Swart <sebastiaan.swart@marine.gu.se>, Ananda Pascual <ananda.pascual@imedea.uib-csic.es>, Benoit Legresy <Benoit.Legresy@csiro.au>, Jinbo Wang <Jinbo.Wang@tamu.edu> 
 * Officer: Tosca Ballerini <tosca.ballerini@thalassa.one>
 
 * Please contact Tosca or Jinbo to sign up the email list. <swot-regional-validation@lists.tamu.edu>
