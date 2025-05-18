@@ -16,7 +16,7 @@ This working group focuses on validating SWOT measurements using independent mea
 
 ## Publication list
 
-### Published or with PDF files
+### Published - 2025 or with PDF files
 1.	Archer M., Wang J., Klein P., Dibarboure G., Fu L-L. (2025). Wide-swath satellite altimetry unveils global submesoscale ocean dynamics. Nature 640, 691–696. [Link] (https://www.nature.com/articles/s41586-025-08722-8)
 2.	Carli E. (2025). A fine satellite view of ocean dynamics. Nature 640, 609-610 (2025). [Link] (https://www.nature.com/articles/d41586-025-00820-x)
 3.	Carli E. et al. (in review) Small-scale eddy diagnostics around the Southern Ocean Polar Front with SWOT Link
@@ -30,17 +30,26 @@ This working group focuses on validating SWOT measurements using independent mea
 11.	Verger-Miralles et al. SWOT enhances small-scale intrathermocline eddy detection submitted to GRL Preprint
 12.	Wang J. et al. (2025) SWOT sub-100km science validation (submitted to GRL) Preprint Code Data
 
+### Published – 2024
+13. Ardhuin, F., Molero, B., Bohé, A., Nouguier, F., Collard, F., Houghton, I., et al. (2024). Phase-resolved swells across ocean basins in SWOT altimetry data: Revealing centimeter-scale wave heights including coastal reflection. Geophysical Research Letters, 51, e2024GL109658. link
+14. Bohé, A., Chen, A., Chen, C., Dubois, P., Fore, A., Molero, B., Peral, E., Raynal, M., Stiles, B., Ardhuin, F., Hay, A., Legresy, B., Lenain, L., Villas Boas, A.B. (2024) Measuring significant wave height fields in two dimensions at kilometric scale with SWOT. IEEE TGRS. link to the paper
+15. Carli, E., Siegelman, L., Morrow, R., & Vergara, O. (2024). Surface quasi geostrophic reconstruction of vertical velocities and vertical heat fluxes in the Southern Ocean: Perspectives for SWOT. Journal of Geophysical Research: Oceans, 129(9), e2024JC021216. [Link](https://doi.org/10.1029/2024JC021216)
+16. Du, T., & Jing, Z. (2024). Fine-Scale Eddies Detected by SWOT in the Kuroshio Extension. Remote Sensing, 16(18), 3488. link
+17. Zhang, Z., Miao, M., Qiu, B., Tian, J., Jing, Z., Chen, G., et al. (2024). Submesoscale Eddies Detected by SWOT and Moored Observations in the Northwestern Pacific. Geophysical Research Letters, 51(15), e2024GL110000. [Link](https://doi.org/10.1029/2024GL110000)
+
+### Pubslished - 2023
+18. Carli, E., Morrow, R., Vergara, O., Chevrier, R., & Renault, L. (2023). Ocean 2D eddy energy fluxes from small mesoscale processes with SWOT. Ocean Science, 19(5), 1413-1435. [Link] (https://doi.org/10.5194/os-19-1413-2023)
 
 ### submitted or in prep
-12. Solange Coadou, Swart, Speich et al. Resolving Sharper Fronts of the Agulhas Current using SWOT Altimetry. To be submitted to GRL in January 2025 (link)
-13. Matte, P., Purnell, D., Chartrand, X., Simard, M., Christensen, A., Chavanne, C., Dumont, D., Anctil, F., Innocenti, S., Dabboor, M., Peters, D. Comprehensive in situ dataset of water levels and waves during SWOT fast-sampling and science phases: St. Lawrence Estuary and Saguenay Fjord, Quebec, Canada. In preparation
-14. Simard, M., Christensen, A., Matte, P., Purnell, D., Innocenti, S. Evaluation of SWOT performance and accuracy in estuaries. In preparation
-15. Rousselet L., Izard L., Doglioli A.M., d’Ovidio F.:Fine-scales in the Mediterranean Sea as revealed by SWOT. GRL, in prep
-16. Oms L., Doglioli A.M., Grégori G., Messié M., d’Ovidio F.. Izard L., Rousselet L., Petrenko A., Lévy M., Bellacicco M.: “Living on the edge”: Fine-scale observations of frontal phytoplankton communities, PNAS, in prep
-17. Akpinar, A., Orek, H., Fach, B.A.. Fine-scale dynamics in the Black Sea detected by SWOT In preparation
-18. Hay, A., C. Watson, B. Legresy, B. Zhou, J. Beardsley, and M.King, Bohé, A., In-situ geometric validation of SWOT satellite observations in Bass Strait, In prep for submission to Earth and Space Science, Expected submission date February 2025.
-19. Allison Ho, J. Wang, B. Haines, A. Wu, S. Stalin, In-situ validation of small-scale spatial variability in significant wave height observations from SWOT, submitted to ESS (2/20/2025)
+19. Akpinar, A., Orek, H., Fach, B.A.. Fine-scale dynamics in the Black Sea detected by SWOT In preparation
+20. Coadou-Chaventon, S.,  Carli, E., Swart, S.,  Speich, S. Siegelman, L. (in preparation). Spatio-temporal variability of vertical velocities reconstructed from SWOT Sea Surface Height in the Agulhas region.
 21. Damerell, G.M., Bosse, A., Fer, I. (2025). Merging of a mesoscale eddy into the Lofoten Vortex in the Norwegian Sea captured by an ocean glider and SWOT observations. Submitted to Ocean Science January 2025.
+22. Hay, A., C. Watson, B. Legresy, B. Zhou, J. Beardsley, and M.King, Bohé, A., In-situ geometric validation of SWOT satellite observations in Bass Strait, In prep for submission to Earth and Space Science, Expected submission date February 2025.
+23. Ho, A., J. Wang, B. Haines, A. Wu, S. Stalin, In-situ validation of small-scale spatial variability in significant wave height observations from SWOT, submitted to ESS (2/20/2025)
+24. Matte, P., Purnell, D., Chartrand, X., Simard, M., Christensen, A., Chavanne, C., Dumont, D., Anctil, F., Innocenti, S., Dabboor, M., Peters, D. Comprehensive in situ dataset of water levels and waves during SWOT fast-sampling and science phases: St. Lawrence Estuary and Saguenay Fjord, Quebec, Canada. In preparation
+25. Oms L., Doglioli A.M., Grégori G., Messié M., d’Ovidio F.. Izard L., Rousselet L., Petrenko A., Lévy M., Bellacicco M.: “Living on the edge”: Fine-scale observations of frontal phytoplankton communities, submitted
+26. Rousselet L., Izard L., Doglioli A.M., d’Ovidio F.:Fine-scales in the Mediterranean Sea as revealed by SWOT. GRL, in prep
+27. Simard, M., Christensen, A., Matte, P., Purnell, D., Innocenti, S. Evaluation of SWOT performance and accuracy in estuaries. In preparation
     
 
 ## Early Career hightlights
