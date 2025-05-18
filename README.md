@@ -48,6 +48,8 @@ This working group focuses on validating SWOT measurements using independent mea
 
 * [Renske Koets](https://www.swot-adac.org/news/the-new-wave-of-oceanographers-renske-koets/)
 * [Elisa Carli](https://www.swot-adac.org/blogs/the-new-wave-of-oceanographers-elisa-carli/)
+* [Luke Kachelein] (https://www.swot-adac.org/news/the-new-wave-of-oceanographers-luke-kachelein/)
+
 
 
 ## Monthly meeting (11AM-12:30PM, the third Thursday every month)
