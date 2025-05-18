@@ -17,8 +17,8 @@ This working group focuses on validating SWOT measurements using independent mea
 ## Publication list
 
 ### Published in 2025 or submitted with PDF files
-1.	Archer M., Wang J., Klein P., Dibarboure G., Fu L-L. (2025). Wide-swath satellite altimetry unveils global submesoscale ocean dynamics. Nature 640, 691–696. [Link] (https://www.nature.com/articles/s41586-025-08722-8)
-2.	Carli E. (2025). A fine satellite view of ocean dynamics. Nature 640, 609-610 (2025). [Link] (https://www.nature.com/articles/d41586-025-00820-x)
+1.	Archer M., Wang J., Klein P., Dibarboure G., Fu L-L. (2025). Wide-swath satellite altimetry unveils global submesoscale ocean dynamics. Nature 640, 691–696. [Link](https://www.nature.com/articles/s41586-025-08722-8)
+2.	Carli E. (2025). A fine satellite view of ocean dynamics. Nature 640, 609-610 (2025). [Link](https://www.nature.com/articles/d41586-025-00820-x)
 3.	Carli E. et al. (in review) Small-scale eddy diagnostics around the Southern Ocean Polar Front with SWOT Link
 4.	Coadou‐Chaventon, S., Swart, S.,  Novelli, G., &  Speich, S. (2025).  Resolving sharper fronts of the Agulhas Current Retroflection using SWOT altimetry. Geophysical Research Letters,  52, e2025GL115203. [Link] (https://doi.org/10.1029/2025GL115203)
 5.	Cutolo E., J. Wang, R. Fablet and C. Granero – Simulation Informed Generative AI Ocean Analysis: Application to SWOT KaRIN Noise submitted to GRL preprint link
