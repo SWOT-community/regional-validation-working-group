@@ -27,8 +27,8 @@ This working group focuses on validating SWOT measurements using independent mea
 8.	Kachelein et al. (2025) Sub-100 km Ocean Processes Revealed by Structure Functions of SWOT Sea Surface Height and In Situ Observing Network (submitted, [Link](https://essopenarchive.org/users/903693/articles/1278614-sub-100-km-ocean-processes-revealed-by-structure-functions-of-swot-sea-surface-height-and-in-situ-observing-network))
 9.	Tchonang B. et al. SWOT Geostrophic Velocity Validation against in-situ measurements in the California Current. [Preprint link](https://essopenarchive.org/users/916355/articles/1289173-swot-geostrophic-velocity-validation-against-in-situ-measurements-in-the-california-current)
 10.	Tranchant, Y.T., B. Legresy, B. Pena Molino, A, Foppert, H.E. Phillips. SWOT reveals fine-scale balanced motions and dispersion properties in the Antarctic Circumpolar Current (2025) Link
-11.	Verger-Miralles et al. SWOT enhances small-scale intrathermocline eddy detection submitted to GRL Preprint
-12.	Wang J. et al. (2025) SWOT sub-100km science validation (submitted to GRL) Preprint Code Data
+11.	Verger-Miralles et al. SWOT enhances small-scale intrathermocline eddy detection submitted to GRL [Preprint](https://essopenarchive.org/doi/full/10.22541/essoar.173315547.75973902/v1)
+12.	Wang J. et al. (2025) SWOT sub-100km science validation (submitted to GRL) [Preprint](https://essopenarchive.org/users/883078/articles/1261629-swot-sub-100-km-science-validation?commit=292791194c1e6c7da6c00dde75b6611bf725a4f2) [Code](https://github.com/jinbow/swot-mission-validation-sub100km) [Data](https://zenodo.org/records/14675995)
 
 ### Published in 2024
 13. Ardhuin, F., Molero, B., Bohé, A., Nouguier, F., Collard, F., Houghton, I., et al. (2024). Phase-resolved swells across ocean basins in SWOT altimetry data: Revealing centimeter-scale wave heights including coastal reflection. Geophysical Research Letters, 51, e2024GL109658. link
