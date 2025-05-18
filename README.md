@@ -17,20 +17,19 @@ This working group focuses on validating SWOT measurements using independent mea
 ## Publication list
 
 ### Published or with PDF files
-1. Archer M., Wang J., Klein P., Dibarboure G., Fu L-L. (2025). Wide-swath satellite altimetry unveils global submesoscale ocean dynamics. Nature 640, 691–696. [Link] (https://www.nature.com/articles/s41586-025-08722-8)
-2. Ardhuin, F., Molero, B., Bohé, A., Nouguier, F., Collard, F., Houghton, I., et al. (2024). Phase-resolved swells across ocean basins in SWOT altimetry data: Revealing centimeter-scale wave heights including coastal reflection. Geophysical Research Letters, 51, e2024GL109658. link
-3. Babette Tchonang et al. SWOT Geostrophic Velocity Validation against in-situ measurements in the California Current. preprint link
-4. Bohé, A., Chen, A., Chen, C., Dubois, P., Fore, A., Molero, B., Peral, E., Raynal, M., Stiles, B., Ardhuin, F., Hay, A., Legresy, B., Lenain, L., Villas
-5. Boas, A.B. (2024) Measuring significant wave height fields in two dimensions at kilometric scale with SWOT. IEEE TGRS. link to the paper
-6. Cutolo E., J. Wang, R. Fablet and C. Granero - Simulation Informed Generative AI Ocean Analysis: Application to SWOT KaRIN Noise submitted to GRL preprint link
-7. Carli E. (2025). A fine satellite view of ocean dynamics. Nature 640, 609-610 (2025). [Link] (https://www.nature.com/articles/d41586-025-00820-x)
-8. Du, T., & Jing, Z. (2024). Fine-Scale Eddies Detected by SWOT in the Kuroshio Extension. Remote Sensing, 16(18), 3488. link
-9. Hay, A., C. Watson, B. Legresy, M. King, and J. Beardsley, (2025). Small scale variability in the wet troposphere impacts the interpretation of SWOT satellite observations. Geophysical Research Letters, 2024GL112778. link
-10. Wang J. et al. (2025) SWOT sub-100km science validation (submitted to GRL) Preprint Code Data
-11. Kachelein et al. (2025) Sub-100 km Ocean Processes Revealed by Structure Functions of SWOT Sea Surface Height and In Situ Observing Network (submitted, link)
-12. Tranchant, Y.T., B. Legresy, B. Pena Molino, A, Foppert, H.E. Phillips. SWOT reveals fine-scale balanced motions and dispersion properties in the Antarctic Circumpolar Current (2025) Link
-13. Verger-Miralles et al. SWOT enhances small-scale intrathermocline eddy detection submitted to GRL [Preprint]([url](https://essopenarchive.org/doi/full/10.22541/essoar.173315547.75973902/v1)) 
-14. Zhang, Z., Miao, M., Qiu, B., Tian, J., Jing, Z., Chen, G., et al. (2024). Submesoscale Eddies Detected by SWOT and Moored Observations in the Northwestern Pacific. Geophysical Research Letters, 51(15), e2024GL110000. https://doi.org/10.1029/2024GL110000
+1.	Archer M., Wang J., Klein P., Dibarboure G., Fu L-L. (2025). Wide-swath satellite altimetry unveils global submesoscale ocean dynamics. Nature 640, 691–696. [Link] (https://www.nature.com/articles/s41586-025-08722-8)
+2.	Carli E. (2025). A fine satellite view of ocean dynamics. Nature 640, 609-610 (2025). [Link] (https://www.nature.com/articles/d41586-025-00820-x)
+3.	Carli E. et al. (in review) Small-scale eddy diagnostics around the Southern Ocean Polar Front with SWOT Link
+4.	Coadou‐Chaventon, S., Swart, S.,  Novelli, G., &  Speich, S. (2025).  Resolving sharper fronts of the Agulhas Current Retroflection using SWOT altimetry. Geophysical Research Letters,  52, e2025GL115203. [Link] (https://doi.org/10.1029/2025GL115203)
+5.	Cutolo E., J. Wang, R. Fablet and C. Granero – Simulation Informed Generative AI Ocean Analysis: Application to SWOT KaRIN Noise submitted to GRL preprint link
+6.	Fouchet, E., Benkiran, M., Le Traon, P. Y. & Remy, E. Comparison of a global high-resolution ocean data assimilation system with SWOT observations. Front. Mar. Sci. 12, (2025). https://doi.org/10.3389/fmars.2025.1563934.
+7.	Hay, A., C. Watson, B. Legresy, M. King, and J. Beardsley, (2025). Small scale variability in the wet troposphere impacts the interpretation of SWOT satellite observations. Geophysical Research Letters, 2024GL112778. link
+8.	Kachelein et al. (2025) Sub-100 km Ocean Processes Revealed by Structure Functions of SWOT Sea Surface Height and In Situ Observing Network (submitted, link)
+9.	Tchonang B. et al. SWOT Geostrophic Velocity Validation against in-situ measurements in the California Current. preprint link
+10.	Tranchant, Y.T., B. Legresy, B. Pena Molino, A, Foppert, H.E. Phillips. SWOT reveals fine-scale balanced motions and dispersion properties in the Antarctic Circumpolar Current (2025) Link
+11.	Verger-Miralles et al. SWOT enhances small-scale intrathermocline eddy detection submitted to GRL Preprint
+12.	Wang J. et al. (2025) SWOT sub-100km science validation (submitted to GRL) Preprint Code Data
+
 
 ### submitted or in prep
 12. Solange Coadou, Swart, Speich et al. Resolving Sharper Fronts of the Agulhas Current using SWOT Altimetry. To be submitted to GRL in January 2025 (link)
