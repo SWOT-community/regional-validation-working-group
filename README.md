@@ -62,6 +62,7 @@ This working group focuses on validating SWOT measurements using independent mea
 * [Minghai Huang](https://www.swot-adac.org/blogs/the-new-wave-of-oceanographers-minghai-huang/)
 * [Solange Coadou-Chaventon](https://www.swot-adac.org/news/the-new-wave-of-oceanographers-solange-coadou-chaventon/)
 * [Théo Garcia](https://www.swot-adac.org/news/the-new-wave-of-oceanographers-theo-garcia/)
+* [Ergane Fouchet](https://www.swot-adac.org/news/the-new-wave-of-oceanographers-ergane-fouchet/)
 
 
 
