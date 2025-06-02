@@ -48,10 +48,11 @@ This working group focuses on validating SWOT measurements using independent mea
 23. Damerell, G.M., Bosse, A., Fer, I. (Submitted to Ocean Science January 2025). Merging of a mesoscale eddy into the Lofoten Vortex in the Norwegian Sea captured by an ocean glider and SWOT observations. 
 24. Hay, A., C. Watson, B. Legresy, B. Zhou, J. Beardsley, and M.King, Bohé, A., In-situ geometric validation of SWOT satellite observations in Bass Strait, In prep for submission to Earth and Space Science. Expected submission date February 2025.
 25. Ho, A., J. Wang, B. Haines, A. Wu, S. Stalin. (submitted to ESS (2/20/2025)). In-situ validation of small-scale spatial variability in significant wave height observations from SWOT, 
-26. Matte, P., Purnell, D., Chartrand, X., Simard, M., Christensen, A., Chavanne, C., Dumont, D., Anctil, F., Innocenti, S., Dabboor, M., Peters, D. (in preparation). Comprehensive in situ dataset of water levels and waves during SWOT fast-sampling and science phases: St. Lawrence Estuary and Saguenay Fjord, Quebec, Canada. 
-27. Oms L., Doglioli A.M., Grégori G., Messié M., d’Ovidio F.. Izard L., Rousselet L., Petrenko A., Lévy M., Bellacicco M. (submitted) . “Living on the edge”: Fine-scale observations of frontal phytoplankton communities.
-28. Rousselet L., Izard L., Doglioli A.M., d’Ovidio F. (in preparation). Fine-scales in the Mediterranean Sea as revealed by SWOT. GRL, in prep
-29. Simard, M., Christensen, A., Matte, P., Purnell, D., Innocenti, S. (in preparation). Evaluation of SWOT performance and accuracy in estuaries.
+26. Matte, P., Purnell, D., Chartrand, X., Simard, M., Christensen, A., Chavanne, C., Dumont, D., Anctil, F., Innocenti, S., Dabboor, M., Peters, D. (in preparation). Comprehensive in situ dataset of water levels and waves during SWOT fast-sampling and science phases: St. Lawrence Estuary and Saguenay Fjord, Quebec, Canada.
+27. Lyard, F.H., Carrere, L.,  Fouchet, E.,  Cancet, M.,  Greenberg, D., Dibarboure, G., Picot, N. “FES2022 a step towards a SWOT-compliant tidal correction” (in preparation)
+28. Oms L., Doglioli A.M., Grégori G., Messié M., d’Ovidio F.. Izard L., Rousselet L., Petrenko A., Lévy M., Bellacicco M. (submitted) . “Living on the edge”: Fine-scale observations of frontal phytoplankton communities.
+29. Rousselet L., Izard L., Doglioli A.M., d’Ovidio F. (in preparation). Fine-scales in the Mediterranean Sea as revealed by SWOT. GRL, in prep
+30. Simard, M., Christensen, A., Matte, P., Purnell, D., Innocenti, S. (in preparation). Evaluation of SWOT performance and accuracy in estuaries.
     
 
 ## Early Career hightlights
