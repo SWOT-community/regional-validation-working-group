@@ -92,12 +92,14 @@ This working group focuses on validating SWOT measurements using independent mea
 ### April 17, 2025 [Recording](https://tamucs-my.sharepoint.com/:v:/g/personal/jinbo_wang_tamu_edu/EcDyD6LgFjhHv5-_fSmU_yQBGGghmzzFIDN1_IxYIjxv_w?e=Jhyhyf)
 
 * Babette Christelle Tchonang (JPL): Velocity validation against in-situ ADCP at the mission calval site in the California Current. 
-* Laurina Oms: “Living on the edge”: Fine-scale observations reveal distinct frontal phytoplankton communities”  BioSWOT med experiment, submitted in Nature communication
+* Laurina Oms (MIO): “Living on the edge”: Fine-scale observations reveal distinct frontal phytoplankton communities”  BioSWOT med experiment, submitted in Nature communication
 
 ### May 15, 2025
 
-* Maristella Berta: small-scale Lagrangian study in the Med Sea using drifters
+* Maristella Berta (ISMAR-CNR): small-scale Lagrangian study in the Med Sea using drifters
 * Léna Tolu: SWOT improvements in coastal current detection
   
 ### June 19, 2025
+
+* Andrew F. Thompson (Caltech): Vertical velocities and deep subduction events from coincident SWOT and glider observations in the Southern Ocean
 
