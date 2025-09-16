@@ -72,7 +72,7 @@ This working group focuses on validating SWOT measurements using independent mea
 
 ### December 19, 2024 [Recording](https://tamucs-my.sharepoint.com/:v:/g/personal/jinbo_wang_tamu_edu/EU3EyxhTQIJBrYwiG_ttHusBj-xzb4oQyFgzi_VeDn7QBQ)
 
-* Pujol Marie-isabelle (CLS): Introduction of the Leve-3 product.
+* Pujol Marie-isabelle (CLS): Introduction of the Level-3 product.
 
 ### Janurary 23, 2025 [Recording](https://tamucs-my.sharepoint.com/:v:/g/personal/jinbo_wang_tamu_edu/ESAYtFUju2hPldqZqrIIkNwBJt4tVK90LzZ_ukFiFWO87Q)
 
