@@ -103,3 +103,6 @@ This working group focuses on validating SWOT measurements using independent mea
 
 * Andrew F. Thompson (Caltech): Vertical velocities and deep subduction events from coincident SWOT and glider observations in the Southern Ocean
 
+### September 18, 2025 [Recording]([https://tamucs-my.sharepoint.com/:v:/g/personal/jinbo_wang_tamu_edu/EQH98hn-BQJDjxj5ifpf22sBMTFCnFG1WHiRtldRkbVdgA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=1kj3aS](https://tamucs-my.sharepoint.com/:v:/g/personal/jinbo_wang_tamu_edu/Ed4QJBJ4nThAl8kMWnitF8wB_SeTTFbTliAi4_ie2HP75w))
+
+* Maxime Ballarotta: Global-Scale Validation of SWOT L3 Velocities Using In-Situ Drifter Data 
