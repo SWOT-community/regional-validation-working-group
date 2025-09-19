@@ -105,4 +105,4 @@ This working group focuses on validating SWOT measurements using independent mea
 
 ### September 18, 2025 [Recording](https://tamucs-my.sharepoint.com/:v:/g/personal/jinbo_wang_tamu_edu/EQH98hn-BQJDjxj5ifpf22sBMTFCnFG1WHiRtldRkbVdgA)
 
-* Maxime Ballarotta: Global-Scale Validation of SWOT L3 Velocities Using In-Situ Drifter Data 
+* Maxime Ballarotta (CLS): Global-Scale Validation of SWOT L3 Velocities Using In-Situ Drifter Data 
