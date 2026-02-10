@@ -1,23 +1,31 @@
 # SWOT Regional Validation Working Group
 
-## Introduction
-This working group focuses on validating SWOT measurements using independent measurements in the context of ocean processes. 
+## Working Group Objectives
+This working group grew out of the mission validation and Adopt-A-Crossover campaigns. We  
+1. focus on satellite validation activities
+2. aimed at understanding SWOT observations and derived products—most notably sea surface height (SSH),
+3. evaluate SWOT measurements by comparing against independent “ground-truth” observations, typically in-water or near-surface measurements.
 
-* Co-chairs: Louise Rousselet <louise.rousselet@mio.osupytheas.fr>, Martin Saraceno <saraceno@cima.fcen.uba.ar>, Sebastiaan Swart <sebastiaan.swart@marine.gu.se>, Ananda Pascual <ananda.pascual@imedea.uib-csic.es>, Benoit Legresy <Benoit.Legresy@csiro.au>, Jinbo Wang <Jinbo.Wang@tamu.edu> 
+The **primary goal** is to assess the quality and limitations of SWOT observations and products, and to provide actionable feedback and recommendations to the mission team to guide improvements in future data releases.
+
+**Co-chairs**:
+* Louise Rousselet <louise.rousselet@mio.osupytheas.fr>
+* Martin Saraceno <saraceno@cima.fcen.uba.ar>,
+* Sebastiaan Swart <sebastiaan.swart@marine.gu.se>,
+* Ananda Pascual <ananda.pascual@imedea.uib-csic.es>,
+* Benoit Legresy <Benoit.Legresy@csiro.au>,
+* Jinbo Wang <Jinbo.Wang@tamu.edu> 
 * Officer: Tosca Ballerini <tosca.ballerini@thalassa.one>
+  
+## Relevant Publications
 
-* Please contact Tosca or Jinbo to sign up the email list. <swot-regional-validation@lists.tamu.edu>
-* Working Group conversations: https://groups.google.com/a/lists.tamu.edu/g/swot-regional-validation
-
-## Publication list
-
-1. [Publications (published, inprint and submitted)](publications.md)
+1. [Publications (published, preprint and submitted)](publications.md)
 1. [Full BibTeX references](references.bib)
 
 ## Early Career hightlights
 
-* [Martin Cornille] (https://www.swot-adac.org/news/the-new-wave-of-oceanographers-martin-cornille/)
-* [Anastasia Volorio Galea] (https://www.swot-adac.org/blogs/the-new-wave-of-oceanographers-anastasia-volorio-galea/)
+* [Martin Cornille](https://www.swot-adac.org/news/the-new-wave-of-oceanographers-martin-cornille/)
+* [Anastasia Volorio Galea](https://www.swot-adac.org/blogs/the-new-wave-of-oceanographers-anastasia-volorio-galea/)
 * [Renske Koets](https://www.swot-adac.org/news/the-new-wave-of-oceanographers-renske-koets/)
 * [Elisa Carli](https://www.swot-adac.org/blogs/the-new-wave-of-oceanographers-elisa-carli/)
 * [Luke Kachelein](https://www.swot-adac.org/news/the-new-wave-of-oceanographers-luke-kachelein/)
@@ -26,8 +34,6 @@ This working group focuses on validating SWOT measurements using independent mea
 * [Théo Garcia](https://www.swot-adac.org/news/the-new-wave-of-oceanographers-theo-garcia/)
 * [Ergane Fouchet](https://www.swot-adac.org/news/the-new-wave-of-oceanographers-ergane-fouchet/)
 * [Julio Leonel Donfack](https://www.swot-adac.org/news/the-new-wave-of-oceanographers-julio-leonel-donfack/)
-
-
 
 ## Useful Links
 * [International CLIVAR Adopt-A-Crossover consortium](https://www.swot-adac.org)
