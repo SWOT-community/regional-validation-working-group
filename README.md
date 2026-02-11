@@ -51,6 +51,11 @@ The **primary goal** is to assess the quality and limitations of SWOT observatio
 * **Luke Kachelein** (JPL): Comparison between SWOT and HFR measurements in the California coastal current
 * **Jinbo Wang** (Texas A&M): The status of the community paper
 
+#### March 18, 2026
+
+* **Solange Coadou-Chaventon (University of Gothenburg)**
+* TBD
+
 ---
 
 
