@@ -24,6 +24,7 @@ The **primary goal** is to assess the quality and limitations of SWOT observatio
 
 ## Early Career hightlights
 
+* [Valentin Bellemin-Laponnaz](https://www.swot-adac.org/news/the-new-wave-of-oceanographers-valentin-bellemin-laponnaz/)
 * [Martin Cornille](https://www.swot-adac.org/news/the-new-wave-of-oceanographers-martin-cornille/)
 * [Anastasia Volorio Galea](https://www.swot-adac.org/blogs/the-new-wave-of-oceanographers-anastasia-volorio-galea/)
 * [Renske Koets](https://www.swot-adac.org/news/the-new-wave-of-oceanographers-renske-koets/)
