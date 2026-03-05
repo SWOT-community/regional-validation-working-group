@@ -3,7 +3,7 @@ Last updates: 02/10/2026
 
 ## Preprints / Submitted (2025)
 
-* **Cutolo, E., Wang, J., Fablet, R., & Granero, C.** (2025).
+* **E. Cutolo1, C. Granero-Belinchon, P. Thiraux2 J. Wang3, R. Fablet** (2025).
   *Simulation-informed generative AI ocean analysis: Application to SWOT KaRIN noise.*
   Preprint (arXiv). [https://arxiv.org/html/2503.21303v1](https://arxiv.org/html/2503.21303v1)
 
